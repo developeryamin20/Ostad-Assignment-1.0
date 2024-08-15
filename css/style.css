@@ -1,0 +1,42 @@
+
+.wrapper{
+    padding: 20px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+.btn-9th{
+    background-color: #15deb9;
+    border: none;
+    padding: 7px 30px;
+    border-radius: 6px;
+
+}
+
+.btn-10th{
+    background-color: #a515de;
+    border: none;
+    padding: 7px 30px;
+    border-radius: 6px;
+    margin:10px;
+}
+.btn-light{
+    background-color: #fff2cf;
+    border: none;
+    padding: 7px 30px;
+    border-radius: 6px;
+}
+
+#card-container{
+    margin-top: 20px;
+}
+
+.btn-sign-in{
+    background-color: #d3cfff;
+    border: none;
+    padding: 7px 30px;
+    border-radius: 6px;
+}
+
+
